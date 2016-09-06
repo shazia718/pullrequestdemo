@@ -1,4 +1,4 @@
 Name: 
- Favorite Movie: 
- Favorite Food: 
- Favorite Candy:
+ Favorite Movie: Fight Club
+ Favorite Food:	 Any BBQ
+ Favorite Candy: Snickers
