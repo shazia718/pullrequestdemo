@@ -1,4 +1,4 @@
 Name: 
- Favorite Movie: 
- Favorite Food: 
- Favorite Candy:
+ Favorite Movie: Chungking Express
+ Favorite Food: lobster rolls
+ Favorite Candy: Sour peach dummies
